@@ -1,0 +1,1 @@
+Select codcli from CLIENTES
